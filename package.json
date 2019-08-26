@@ -4,7 +4,7 @@
   "description": "Port of the awesome [nebular](https://akveo.github.io/nebular/) components to [react](https://reactjs.org/) with [material-ui](https://material-ui.com/).",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"no tests yet\""
   },
   "repository": {
     "type": "git",
